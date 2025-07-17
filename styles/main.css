@@ -964,9 +964,9 @@ h1,
 .sidebar-bottom {
   display: none;
 }
-.icons1 {
+/* .icons1 {
   display: none;
-}
+} */
 @media only screen and (max-width: 569px) {
   body {
     height: auto;
@@ -1303,7 +1303,7 @@ h1,
   .socialmedia {
     width: 100vw;
   }
-  .icons {
+  /* .icons {
     display: none;
   }
   .icons1 {
@@ -1319,7 +1319,7 @@ h1,
   .icons1 img {
     width: 32px;
     height: 32px;
-  }
+  } */
   .mobile-footer {
     width: 101vw;
     background-color: #0d1a2d;
