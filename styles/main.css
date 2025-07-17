@@ -1316,7 +1316,10 @@ h1,
     flex-direction: column;
     align-items: center;
   }
-
+  .icons1 img {
+    width: 32px;
+    height: 32px;
+  }
   .mobile-footer {
     width: 101vw;
     background-color: #0d1a2d;
